@@ -1,0 +1,15 @@
+{
+  "name": "keelsnator",
+  "version": "0.0.1",
+  "description": "Kells Super automator",
+  "main": "index.js",
+  "author": "Dimuthu Ekanayake <dimuthusek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^80.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
